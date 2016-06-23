@@ -37,3 +37,7 @@ Process
  * Teams have time till June 25th 3:30 PM to submit their test suite and bug reports. Please submit the link to your github repo where you have all the test suite. Integrating your tests with a CI server is an added advantage. For the bug reports, you are expected to share the links to actual accepted bug reports filed on the project site. (As the teams work, the Se Committers will be reviewing and accepting bugs. If need be, they will also be happy to accept fixes.)
  * The panel will start their review of the test suite and bug reports at 3:30 PM on June 25th.
  * Right after this, the panel will announce the winners.
+
+Virtual Particiaption
+--------------------
+The bug bash does not require you to be physically present at the conference. If you already have a pass and want to attend the bug bash, that's great. But you can always particiapte remotely. As long as you follow the above process, we should be good.
