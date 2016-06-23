@@ -38,6 +38,6 @@ Process
  * The panel will start their review of the test suite and bug reports at 3:30 PM on June 25th.
  * Right after this, the panel will announce the winners.
 
-Virtual Particiaption
+Virtual Participation
 --------------------
 The bug bash does not require you to be physically present at the conference. If you already have a pass and want to attend the bug bash, that's great. But you can always particiapte remotely. As long as you follow the above process, we should be good.
