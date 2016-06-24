@@ -38,6 +38,14 @@ Process
  * The panel will start their review of the test suite and bug reports at 3:30 PM on June 25th.
  * Right after this, the panel will announce the winners.
 
+Where to download the Selenium Jar
+----------------------------------
+The following link points to the latest build of the Selenium 3 Codebase. It *will* be updated during the bug-bash. 
+
+http://ci.seleniumhq.org:8080/job/Build_All_Java/lastSuccessfulBuild/artifact/selenium-server-standalone-latest.jar
+
+When you file bugs please provide the timestamp of the jar file. If you have a stack trace, please also provide it in the bug report.
+
 Virtual Participation
 --------------------
 The bug bash does not require you to be physically present at the conference. If you already have a pass and want to attend the bug bash, that's great. But you can always particiapte remotely. As long as you follow the above process, we should be good.
